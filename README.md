@@ -1,38 +1,32 @@
 modified:   README.md
 modified:   backend/app.js
 modified:   backend/controllers/user.js
-modified:   backend/middleware/check-auth.js
-modified:   src/app/app-routing.module.ts
-modified:   src/app/app.module.ts
-modified:   src/app/auth/auth.module.ts
-modified:   src/app/auth/auth.service.ts
-modified:   src/app/header/header.component.html
-modified:   src/app/posts/posts.service.ts
-modified:   src/environments/environment.ts
+modified:   backend/middleware/file.js
+deleted:    how-to-use.txt
+modified:   package.json
+deleted:    server.js
+modified:   src/environments/environment.prod.ts
 
 Untracked files:
+backend/Archive.zip
+backend/package.json
+backend/server.js
 
-nodemon.json
-src/app/auth/auth-routing.module.ts
-
--------------------------------------------##########################-------------------------------
+-------------------------------####################---------------------------------------
 
 modified:   README.md
+new file:   backend/Archive.zip
 modified:   backend/app.js
 modified:   backend/controllers/user.js
-modified:   backend/middleware/check-auth.js
-new file:   nodemon.json
-modified:   src/app/app-routing.module.ts
-modified:   src/app/app.module.ts
-new file:   src/app/auth/auth-routing.module.ts
-modified:   src/app/auth/auth.module.ts
-modified:   src/app/auth/auth.service.ts
-modified:   src/app/header/header.component.html
-modified:   src/app/posts/posts.service.ts
-modified:   src/environments/environment.ts
+modified:   backend/middleware/file.js
+new file:   backend/package.json
+renamed:    server.js -> backend/server.js
+deleted:    how-to-use.txt
+modified:   package.json
+modified:   src/environments/environment.prod.ts
 
 
--------------------------------------------##########################-------------------------------
+-------------------------------####################---------------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -40,9 +34,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
--------------------------------------------##########################-------------------------------
-
-
+-------------------------------####################---------------------------------------
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
