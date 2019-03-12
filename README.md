@@ -1,3 +1,46 @@
+modified:   angular.json
+modified:   package.json
+modified:   src/app/app.component.css
+modified:   src/app/app.component.html
+modified:   src/app/app.component.ts
+modified:   src/app/app.module.ts
+modified:   src/index.html
+modified:   src/styles.css
+
+Untracked files:
+
+src/app/header/
+src/app/posts/
+
+-------------------------------##############-----------------------------------
+
+modified:   angular.json
+modified:   package.json
+modified:   src/app/app.component.css
+modified:   src/app/app.component.html
+modified:   src/app/app.component.ts
+modified:   src/app/app.module.ts
+new file:   src/app/header/header.component.html
+new file:   src/app/header/header.component.ts
+new file:   src/app/posts/post-create/post-create.component.css
+new file:   src/app/posts/post-create/post-create.component.html
+new file:   src/app/posts/post-create/post-create.component.ts
+new file:   src/app/posts/post-list/post-list.component.css
+new file:   src/app/posts/post-list/post-list.component.html
+new file:   src/app/posts/post-list/post-list.component.ts
+modified:   src/index.html
+modified:   src/styles.css
+
+-------------------------------##############-----------------------------------
+
+# "start:server": "nodemon server.js"
+run Cmd: npm run start:server
+
+# Start UI Server
+run Cmd: ng serve
+
+-------------------------------##############-----------------------------------
+
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
