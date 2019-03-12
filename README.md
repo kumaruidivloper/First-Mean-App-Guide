@@ -1,31 +1,27 @@
 modified:   README.md
 modified:   backend/app.js
-modified:   package.json
-modified:   src/app/auth/login/login.component.ts
-modified:   src/app/auth/signup/signup.component.ts
+modified:   backend/routes/posts.js
+modified:   src/app/app.module.ts
+modified:   src/app/auth/auth.service.ts
 
--------------------------------------------####################------------------------------
+---------------------------------------##################----------------------------------
 
 Untracked files:
 
-backend/models/user.js
-backend/routes/user.js
-src/app/auth/auth-data.model.ts
-src/app/auth/auth.service.ts
+backend/middleware/
+src/app/auth/auth-interceptor.ts
 
--------------------------------------------####################------------------------------
+---------------------------------------##################----------------------------------
 
 modified:   README.md
 modified:   backend/app.js
-new file:   backend/models/user.js
-new file:   backend/routes/user.js
-modified:   package.json
-new file:   src/app/auth/auth-data.model.ts
-new file:   src/app/auth/auth.service.ts
-modified:   src/app/auth/login/login.component.ts
-modified:   src/app/auth/signup/signup.component.ts
+new file:   backend/middleware/check-auth.js
+modified:   backend/routes/posts.js
+modified:   src/app/app.module.ts
+new file:   src/app/auth/auth-interceptor.ts
+modified:   src/app/auth/auth.service.ts
 
--------------------------------------------####################------------------------------
+---------------------------------------##################----------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -33,8 +29,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
-
--------------------------------------------####################------------------------------
+---------------------------------------##################----------------------------------
 
 # MeanCourse
 
