@@ -1,35 +1,21 @@
 modified:   README.md
 modified:   backend/app.js
-modified:   src/app/app.module.ts
-modified:   src/app/auth/auth.service.ts
-modified:   src/app/auth/login/login.component.ts
-modified:   src/app/auth/signup/signup.component.ts
-
-
-Untracked files:
-
-src/app/error-interceptor.ts
-src/app/error/
-
-----------------------------------------##########################-----------------------------------
-
-modified:   README.md
+modified:   backend/middleware/check-auth.js
 modified:   backend/routes/posts.js
 modified:   backend/routes/user.js
-modified:   src/app/app.module.ts
-modified:   src/app/auth/auth.service.ts
-modified:   src/app/auth/login/login.component.ts
-modified:   src/app/auth/signup/signup.component.ts
-new file:   src/app/error-interceptor.ts
-new file:   src/app/error/error.component.html
-new file:   src/app/error/error.component.ts
 modified:   src/app/posts/post-create/post-create.component.ts
-modified:   src/app/posts/post-list/post-list.component.html
 modified:   src/app/posts/post-list/post-list.component.ts
-modified:   src/app/posts/post.model.ts
-modified:   src/app/posts/posts.service.ts
 
-----------------------------------------##########################-----------------------------------
+-------------------------------------------------#########################----------------------------------------
+
+modified:   README.md
+modified:   backend/middleware/check-auth.js
+modified:   backend/routes/posts.js
+modified:   backend/routes/user.js
+modified:   src/app/posts/post-create/post-create.component.ts
+modified:   src/app/posts/post-list/post-list.component.ts
+
+-------------------------------------------------#########################----------------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -37,7 +23,10 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
-----------------------------------------##########################-----------------------------------
+-------------------------------------------------#########################----------------------------------------
+
+
+
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
