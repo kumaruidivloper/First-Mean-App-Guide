@@ -1,27 +1,14 @@
 modified:   README.md
-modified:   package.json
+modified:   backend/app.js
+modified:   server.js
 
-Untracked files:
-
-backend/
-server.js
-
--------------------------------------#########################-----------------------------
+-----------------------------------------##################--------------------------------------
 
 modified:   README.md
-new file:   backend/angular/0.e9f471f63898b4ac0493.js
-new file:   backend/angular/3rdpartylicenses.txt
-new file:   backend/angular/favicon.ico
-new file:   backend/angular/index.html
-new file:   backend/angular/main.1c581e685eed417264d1.js
-new file:   backend/angular/polyfills.513340fb3a708ab6cde2.js
-new file:   backend/angular/runtime.442b7c8db123a504de6e.js
-new file:   backend/angular/styles.645c7c4c3629d3736432.css
-new file:   backend/app.js
-modified:   package.json
-new file:   server.js
+modified:   backend/app.js
+modified:   server.js
 
--------------------------------------#########################-----------------------------
+-----------------------------------------##################--------------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -29,7 +16,8 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
--------------------------------------#########################-----------------------------
+-----------------------------------------##################--------------------------------------
+
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
