@@ -1,14 +1,18 @@
 modified:   README.md
+modified:   src/app/app.module.ts
 modified:   src/app/posts/post-create/post-create.component.css
 modified:   src/app/posts/post-create/post-create.component.html
+modified:   src/app/posts/post-create/post-create.component.ts
 
-------------------------------------------------#######################---------------------------
+--------------------------------------------------#######################-------------------------------
 
 modified:   README.md
+modified:   src/app/app.module.ts
 modified:   src/app/posts/post-create/post-create.component.css
 modified:   src/app/posts/post-create/post-create.component.html
+modified:   src/app/posts/post-create/post-create.component.ts
 
-------------------------------------------------#######################---------------------------
+--------------------------------------------------#######################-------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -16,7 +20,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
-------------------------------------------------#######################---------------------------
+--------------------------------------------------#######################-------------------------------
 
 # MeanCourse
 
