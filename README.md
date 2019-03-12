@@ -1,22 +1,24 @@
 modified:   README.md
-modified:   backend/routes/posts.js
-modified:   backend/routes/user.js
+modified:   backend/app.js
+modified:   backend/controllers/posts.js
+modified:   src/app/app.module.ts
 
 Untracked files:
 
-backend/controllers/
-backend/middleware/file.js
+src/app/angular-material.module.ts
+src/app/auth/auth.module.ts
+src/app/posts/posts.module.ts
 
------------------------------------------####################-----------------------------------
+-----------------------------------------#######################-------------------------------------
 
 modified:   README.md
-new file:   backend/controllers/posts.js
-new file:   backend/controllers/user.js
-new file:   backend/middleware/file.js
-modified:   backend/routes/posts.js
-modified:   backend/routes/user.js
+modified:   backend/controllers/posts.js
+new file:   src/app/angular-material.module.ts
+modified:   src/app/app.module.ts
+new file:   src/app/auth/auth.module.ts
+new file:   src/app/posts/posts.module.ts
 
------------------------------------------####################-----------------------------------
+-----------------------------------------#######################-------------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -24,7 +26,8 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
------------------------------------------####################-----------------------------------
+-----------------------------------------#######################-------------------------------------
+
 
 # MeanCourse
 
