@@ -1,18 +1,28 @@
 modified:   README.md
-modified:   backend/routes/posts.js
-modified:   src/app/posts/post-list/post-list.component.html
-modified:   src/app/posts/post-list/post-list.component.ts
-modified:   src/app/posts/posts.service.ts
+modified:   src/app/app-routing.module.ts
+modified:   src/app/app.module.ts
+modified:   src/app/header/header.component.css
+modified:   src/app/header/header.component.html
 
----------------------------------------------####################---------------------------------
+Untracked files:
+src/app/auth/
+
+-------------------------------------###########################-------------------------------
 
 modified:   README.md
-modified:   backend/routes/posts.js
-modified:   src/app/posts/post-list/post-list.component.html
-modified:   src/app/posts/post-list/post-list.component.ts
-modified:   src/app/posts/posts.service.ts
+modified:   src/app/app-routing.module.ts
+modified:   src/app/app.module.ts
+new file:   src/app/auth/login/login.component.css
+new file:   src/app/auth/login/login.component.html
+new file:   src/app/auth/login/login.component.ts
+new file:   src/app/auth/signup/signup.component.css
+new file:   src/app/auth/signup/signup.component.html
+new file:   src/app/auth/signup/signup.component.ts
+modified:   src/app/header/header.component.css
+modified:   src/app/header/header.component.html
 
----------------------------------------------####################---------------------------------
+
+-------------------------------------###########################-------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -20,9 +30,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
-
----------------------------------------------####################---------------------------------
-
+-------------------------------------###########################-------------------------------
 
 # MeanCourse
 
