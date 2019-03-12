@@ -24,8 +24,8 @@ export class ErrorInterceptor implements HttpInterceptor {
         if (error.error.message) {
           errorMessage = error.error.message;
         }
-        // this.dialog.open(ErrorComponent, {data: {message: errorMessage}});
-        this.errorService.throwError(errorMessage);
+        this.dialog.open(ErrorComponent, {data: {message: errorMessage}});
+        // this.errorService.throwError(errorMessage);
         return throwError(error);
       })
     );

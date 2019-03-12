@@ -1,27 +1,23 @@
 modified:   README.md
+modified:   backend/app.js
+modified:   backend/routes/posts.js
 modified:   src/app/app.component.html
 modified:   src/app/app.component.ts
 modified:   src/app/error-interceptor.ts
 modified:   src/app/error/error.component.html
 modified:   src/app/error/error.component.ts
 
-Untracked files:
-
-src/app/error/error.component.css
-src/app/error/error.service.ts
-
----------------------------------------##############################----------------------------------------
+-------------------------------------############################-----------------------------------
 
 modified:   README.md
+modified:   backend/routes/posts.js
 modified:   src/app/app.component.html
 modified:   src/app/app.component.ts
 modified:   src/app/error-interceptor.ts
-new file:   src/app/error/error.component.css
 modified:   src/app/error/error.component.html
 modified:   src/app/error/error.component.ts
-new file:   src/app/error/error.service.ts
 
----------------------------------------##############################----------------------------------------
+-------------------------------------############################-----------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -29,7 +25,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
----------------------------------------##############################----------------------------------------
+-------------------------------------############################-----------------------------------
 
 # MeanCourse
 

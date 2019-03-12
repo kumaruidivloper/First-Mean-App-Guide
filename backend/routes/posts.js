@@ -150,7 +150,7 @@ router.delete("/:id", checkAuth, (req, res, next) => {
     })
     .catch(error => {
       res.status(500).json({
-        message: "Fetching posts failed!"
+        message: "Deleting posts failed!"
       });
     });
 });
