@@ -1,32 +1,22 @@
+modified:   .gitignore
 modified:   README.md
+modified:   angular.json
+modified:   backend/Archive.zip
+modified:   backend/angular/main.1c581e685eed417264d1.js
 modified:   backend/app.js
-modified:   backend/controllers/user.js
-modified:   backend/middleware/file.js
-deleted:    how-to-use.txt
-modified:   package.json
-deleted:    server.js
 modified:   src/environments/environment.prod.ts
 
-Untracked files:
-backend/Archive.zip
-backend/package.json
-backend/server.js
+-----------------------------------##################################---------------------------------------
 
--------------------------------####################---------------------------------------
-
+modified:   .gitignore
 modified:   README.md
-new file:   backend/Archive.zip
+modified:   angular.json
+modified:   backend/Archive.zip
+modified:   backend/angular/main.1c581e685eed417264d1.js
 modified:   backend/app.js
-modified:   backend/controllers/user.js
-modified:   backend/middleware/file.js
-new file:   backend/package.json
-renamed:    server.js -> backend/server.js
-deleted:    how-to-use.txt
-modified:   package.json
 modified:   src/environments/environment.prod.ts
 
-
--------------------------------####################---------------------------------------
+-----------------------------------##################################---------------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -34,7 +24,9 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
--------------------------------####################---------------------------------------
+-----------------------------------##################################---------------------------------------
+
+
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
