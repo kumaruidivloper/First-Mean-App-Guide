@@ -1,27 +1,36 @@
 modified:   README.md
-modified:   backend/app.js
-modified:   backend/routes/posts.js
-modified:   src/app/app.module.ts
+modified:   src/app/app-routing.module.ts
 modified:   src/app/auth/auth.service.ts
-
----------------------------------------##################----------------------------------
+modified:   src/app/auth/login/login.component.html
+modified:   src/app/auth/login/login.component.ts
+modified:   src/app/auth/signup/signup.component.html
+modified:   src/app/auth/signup/signup.component.ts
+modified:   src/app/header/header.component.html
+modified:   src/app/header/header.component.ts
+modified:   src/app/posts/post-list/post-list.component.html
+modified:   src/app/posts/post-list/post-list.component.ts
 
 Untracked files:
 
-backend/middleware/
-src/app/auth/auth-interceptor.ts
+src/app/auth/auth.guard.ts
 
----------------------------------------##################----------------------------------
+-----------------------------------------------###################---------------------------------
 
 modified:   README.md
-modified:   backend/app.js
-new file:   backend/middleware/check-auth.js
-modified:   backend/routes/posts.js
-modified:   src/app/app.module.ts
-new file:   src/app/auth/auth-interceptor.ts
+modified:   src/app/app-routing.module.ts
+new file:   src/app/auth/auth.guard.ts
 modified:   src/app/auth/auth.service.ts
+modified:   src/app/auth/login/login.component.html
+modified:   src/app/auth/login/login.component.ts
+modified:   src/app/auth/signup/signup.component.html
+modified:   src/app/auth/signup/signup.component.ts
+modified:   src/app/header/header.component.html
+modified:   src/app/header/header.component.ts
+modified:   src/app/posts/post-list/post-list.component.html
+modified:   src/app/posts/post-list/post-list.component.ts
 
----------------------------------------##################----------------------------------
+
+-----------------------------------------------###################---------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -29,7 +38,8 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
----------------------------------------##################----------------------------------
+-----------------------------------------------###################---------------------------------
+
 
 # MeanCourse
 
