@@ -1,15 +1,32 @@
+modified:   .gitignore
 modified:   README.md
-modified:   src/app/posts/post-create/post-create.component.html
+modified:   backend/app.js
+modified:   backend/models/post.js
+modified:   backend/routes/posts.js
+modified:   package.json
+modified:   src/app/posts/post-create/mime-type.validator.ts
 modified:   src/app/posts/post-create/post-create.component.ts
+modified:   src/app/posts/post-list/post-list.component.css
+modified:   src/app/posts/post-list/post-list.component.html
+modified:   src/app/posts/post.model.ts
+modified:   src/app/posts/posts.service.ts
 
-----------------------------------------------------#########################----------------------------------
+----------------------------------------------#########################-------------------------------------
 
+modified:   .gitignore
 modified:   README.md
-new file:   src/app/posts/post-create/mime-type.validator.ts
-modified:   src/app/posts/post-create/post-create.component.html
+modified:   backend/app.js
+modified:   backend/models/post.js
+modified:   backend/routes/posts.js
+modified:   package.json
+modified:   src/app/posts/post-create/mime-type.validator.ts
 modified:   src/app/posts/post-create/post-create.component.ts
+modified:   src/app/posts/post-list/post-list.component.css
+modified:   src/app/posts/post-list/post-list.component.html
+modified:   src/app/posts/post.model.ts
+modified:   src/app/posts/posts.service.ts
 
-----------------------------------------------------#########################----------------------------------
+----------------------------------------------#########################-------------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -17,7 +34,10 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
-----------------------------------------------------#########################----------------------------------
+----------------------------------------------#########################-------------------------------------
+
+
+
 # MeanCourse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
