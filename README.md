@@ -1,14 +1,20 @@
 modified:   README.md
 modified:   backend/app.js
-modified:   server.js
+modified:   src/app/app.module.ts
+modified:   src/app/posts/post-list/post-list.component.ts
+modified:   src/app/posts/post.model.ts
+modified:   src/app/posts/posts.service.ts
 
------------------------------------------##################--------------------------------------
+------------------------------------------##################-----------------------------
 
 modified:   README.md
 modified:   backend/app.js
-modified:   server.js
+modified:   src/app/app.module.ts
+modified:   src/app/posts/post-list/post-list.component.ts
+modified:   src/app/posts/post.model.ts
+modified:   src/app/posts/posts.service.ts
 
------------------------------------------##################--------------------------------------
+------------------------------------------##################-----------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -16,7 +22,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
------------------------------------------##################--------------------------------------
+------------------------------------------##################-----------------------------
 
 # MeanCourse
 
