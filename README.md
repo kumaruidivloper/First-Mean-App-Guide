@@ -1,16 +1,19 @@
 modified:   README.md
 modified:   backend/app.js
 modified:   package.json
-modified:   src/app/posts/posts.service.ts
 
---------------------------------------------##################-----------------------------
+Untracked files:
+
+backend/models/
+
+-------------------------------------########################---------------------------------------
 
 modified:   README.md
 modified:   backend/app.js
+new file:   backend/models/post.js
 modified:   package.json
-modified:   src/app/posts/posts.service.ts
 
---------------------------------------------##################-----------------------------
+-------------------------------------########################---------------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -18,8 +21,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
---------------------------------------------##################-----------------------------
-
+-------------------------------------########################---------------------------------------
 
 # MeanCourse
 
