@@ -1,14 +1,27 @@
 modified:   README.md
 modified:   backend/app.js
-modified:   src/app/posts/posts.service.ts
+modified:   src/app/app.component.html
+modified:   src/app/app.module.ts
+modified:   src/app/header/header.component.html
+modified:   src/app/header/header.component.ts
 
-----------------------------------------------#################------------------------------
+Untracked files:
+
+src/app/app-routing.module.ts
+src/app/header/header.component.css
+
+----------------------------------------------------###################----------------------------------
 
 modified:   README.md
 modified:   backend/app.js
-modified:   src/app/posts/posts.service.ts
-
-----------------------------------------------#################------------------------------
+new file:   src/app/app-routing.module.ts
+modified:   src/app/app.component.html
+modified:   src/app/app.module.ts
+new file:   src/app/header/header.component.css
+modified:   src/app/header/header.component.html
+modified:   src/app/header/header.component.ts
+		
+----------------------------------------------------###################----------------------------------
 
 # "start:server": "nodemon server.js"
 run Cmd: npm run start:server
@@ -16,7 +29,7 @@ run Cmd: npm run start:server
 # Start UI Server
 run Cmd: ng serve
 
-----------------------------------------------#################------------------------------
+----------------------------------------------------###################----------------------------------
 
 # MeanCourse
 
